@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+👯欢迎访问。✨😄📫 
+
+
+[![Page Views Count](https://badges.toozhao.com/badges/01HGTCJ4M0AK4TEG3Z9SV6QJ5J/green.svg)](https://badges.toozhao.com/stats/01HGTCJ4M0AK4TEG3Z9SV6QJ5J "Get your own page views count badge on badges.toozhao.com")
+
+博客链接：[博客](https://blog.twelveeee.top/)
+
+[![srcrs's github stats](https://github-readme-stats.vercel.app/api?username=Twelveeee&show_icons=true&theme=gruvbox)](https://github.com/Twelveeee)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twelveeee&show_icons=true&hide=html&theme=gruvbox)](https://github.com/Twelveeee)
+
+
