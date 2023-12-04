@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 
 博客链接：[博客](https://blog.twelveeee.top/)
 
-[![srcrs's github stats](https://github-readme-stats.vercel.app/api?username=Twelveeee&show_icons=true&theme=gruvbox)](https://github.com/Twelveeee)
-
+<!--
+  [![Twelveeee's github stats](https://github-readme-stats.vercel.app/api?username=Twelveeee&show_icons=true&theme=gruvbox)](https://github.com/Twelveeee)
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twelveeee&show_icons=true&hide=html&theme=gruvbox)](https://github.com/Twelveeee)
 
 
