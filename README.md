@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 👯欢迎访问。✨😄📫 
 
 
-[![Page Views Count](https://badges.toozhao.com/badges/01HGTCJ4M0AK4TEG3Z9SV6QJ5J/green.svg)](https://badges.toozhao.com/stats/01HGTCJ4M0AK4TEG3Z9SV6QJ5J "Get your own page views count badge on badges.toozhao.com")
+
 
 博客链接：[博客](https://blog.twelveeee.top/)
 
@@ -28,5 +28,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](./profile/top-langs.svg)](https://github.com/Twelveeee)
 
+
+
+![Page Views Count](https://moe-counter-cf.12dev.us/@github_twelveeee?name=github_twelveeee&theme=umaru&padding=4&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
 
 
